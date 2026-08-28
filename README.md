@@ -43,10 +43,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&title_color=f472b6&text_color=fce7f3&bg_color=1a0a12&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&background=1a0a12&ring=f472b6&fire=e879a0&currStreakLabel=f9a8d4&hide_border=true" />
-</div>
-
 ---
 
 ## 📈 Contribution Activity
