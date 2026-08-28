@@ -12,9 +12,7 @@
 
 ## ✨ About Me
 
-```bash
-$ cat about.txt
-```
+
 
 > 🌷 Apasionada por crear interfaces web modernas e intuitivas
 >
@@ -77,7 +75,7 @@ $ cat about.txt
 <div align="center">
 
 ```
-$ echo "Thanks for visiting! 🌷"
+ Thanks for visiting! 🌷
 ```
 
 </div>
