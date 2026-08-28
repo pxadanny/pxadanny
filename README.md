@@ -52,7 +52,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pxadanny&bg_color=1a0a12&color=f9a8d4&line=f472b6&point=e879a0&hide_border=true" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pxadanny&border_radius=6.6)](https://git.io/streak-stats)
 </div>
 
 ---
