@@ -51,9 +51,9 @@
 
 ## 📈 Contribution Activity
 
-<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pxadanny&border_radius=6.6)](https://git.io/streak-stats)
-</div>
+
 
 ---
 
