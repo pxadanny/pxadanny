@@ -1,77 +1,88 @@
 <div align="center">
-  <img src="header.svg" alt="Xady Perez | Software Developer" width="800"/>
+  <img src="./header.svg" alt="Xadanny Pérez | Software Developer | Diseño con intención, código con propósito" width="100%" />
 </div>
 
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&pause=1000&color=F472B6&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%8C%B7;Angular+%7C+TypeScript+%7C+Tailwind+CSS;Building+beautiful+interfaces+%F0%9F%8E%A8)
-
+  <br />
+  <a href="https://github.com/pxadanny/portfolio-xady">
+    <img alt="Ver portafolio" src="https://img.shields.io/badge/MI_PORTAFOLIO-75162D?style=for-the-badge&amp;logo=github&amp;logoColor=F2E5C6" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/pxadanny?tab=repositories">
+    <img alt="Explorar proyectos" src="https://img.shields.io/badge/MIS_PROYECTOS-75162D?style=for-the-badge&amp;logo=git&amp;logoColor=F2E5C6" />
+  </a>
+  &nbsp;
+  <a href="mailto:pxadanny@gmail.com">
+    <img alt="Contacto" src="https://img.shields.io/badge/CONTACTO-B58C4F?style=for-the-badge&amp;logo=gmail&amp;logoColor=3B010B" />
+  </a>
 </div>
 
----
-
-## ✨ About Me
-
-
-
-> 🌷 Apasionada por crear interfaces web modernas e intuitivas
->
-> 💻 Enfocada en **Frontend Development** con Angular
->
-> 🎨 Interesada en UI/UX design y experiencias responsivas
->
-> 🚀 Construyendo proyectos y expandiendo mi portfolio
+<br />
 
 ---
 
-## 🌸 Current Focus
+## ✦ Sobre mí
 
-![Angular](https://img.shields.io/badge/Angular-FF69B4?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-F472B6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-FBCFE8?style=flat-square&logo=tailwindcss&logoColor=DB2777)
-![HTML5](https://img.shields.io/badge/HTML5-FCE7F3?style=flat-square&logo=html5&logoColor=DB2777)
-![CSS3](https://img.shields.io/badge/CSS3-FDF2F8?style=flat-square&logo=css3&logoColor=DB2777)
-![Git](https://img.shields.io/badge/Git-FF69B4?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-F9A8D4?style=flat-square&logo=visualstudiocode&logoColor=DB2777)
+¡Hola! Soy **Xadanny Pérez**, desarrolladora de software. Me gusta transformar ideas en soluciones digitales **útiles, intuitivas y visualmente cuidadas**. Disfruto combinar la lógica de la programación con el diseño y la experiencia de usuario.
+
+Me interesa crear productos digitales completos: desde la interfaz y la interacción hasta las funcionalidades, los flujos de trabajo y los datos que los hacen posibles.
+
+- **Desarrollo de software:** diseño e implementación de funcionalidades y soluciones web.
+- **Diseño de interfaces:** experiencias claras, modernas y responsivas.
+- **Aprendizaje continuo:** explorar herramientas y mejorar cada proyecto.
 
 ---
 
-## 📊 GitHub Stats
+## ✦ Tecnologías y herramientas
+
+**Interfaces y desarrollo web**
+
+![Angular](https://img.shields.io/badge/Angular-75162D?style=flat-square&logo=angular&logoColor=F2E5C6)
+![TypeScript](https://img.shields.io/badge/TypeScript-75162D?style=flat-square&logo=typescript&logoColor=F2E5C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-75162D?style=flat-square&logo=javascript&logoColor=F2E5C6)
+![HTML5](https://img.shields.io/badge/HTML5-75162D?style=flat-square&logo=html5&logoColor=F2E5C6)
+![CSS3](https://img.shields.io/badge/CSS3-75162D?style=flat-square&logo=css3&logoColor=F2E5C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-75162D?style=flat-square&logo=tailwindcss&logoColor=F2E5C6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-75162D?style=flat-square&logo=bootstrap&logoColor=F2E5C6)
+
+**Backend y datos**
+
+![C#](https://img.shields.io/badge/C%23-3B010B?style=flat-square&logo=sharp&logoColor=D6B585)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-3B010B?style=flat-square&logo=dotnet&logoColor=D6B585)
+![SQL Server](https://img.shields.io/badge/SQL_Server-3B010B?style=flat-square&logo=microsoftsqlserver&logoColor=D6B585)
+
+**Aplicaciones y herramientas**
+
+![Ionic](https://img.shields.io/badge/Ionic-43432C?style=flat-square&logo=ionic&logoColor=F2E5C6)
+![Capacitor](https://img.shields.io/badge/Capacitor-43432C?style=flat-square&logo=capacitor&logoColor=F2E5C6)
+![Git](https://img.shields.io/badge/Git-43432C?style=flat-square&logo=git&logoColor=F2E5C6)
+![GitHub](https://img.shields.io/badge/GitHub-43432C?style=flat-square&logo=github&logoColor=F2E5C6)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-43432C?style=flat-square&logo=visualstudio&logoColor=F2E5C6)
+
+---
+
+## ✦ Proyecto destacado
+
+### [Portafolio personal](https://github.com/pxadanny/portfolio-xady)
+
+Mi espacio para compartir proyectos, habilidades e intereses, con una identidad visual editorial en tonos **borgoña, crema y dorado**.
+
+[**Explorar el código del portafolio**](https://github.com/pxadanny/portfolio-xady)
+
+---
+
+## ✦ Actividad en GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&title_color=f472b6&icon_color=e879a0&text_color=fce7f3&bg_color=1a0a12&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&title_color=f472b6&text_color=fce7f3&bg_color=1a0a12&hide_border=true" />
+  <img height="165" alt="Estadísticas de GitHub de pxadanny" src="https://github-readme-stats.vercel.app/api?username=pxadanny&amp;show_icons=true&amp;hide_border=true&amp;bg_color=3B010B&amp;title_color=D6B585&amp;text_color=F2E5C6&amp;icon_color=B58C4F" />
+  <img height="165" alt="Lenguajes más utilizados en repositorios públicos de pxadanny" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxadanny&amp;layout=compact&amp;hide_border=true&amp;bg_color=3B010B&amp;title_color=D6B585&amp;text_color=F2E5C6" />
 </div>
 
----
-
-## 📈 Contribution Activity
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pxadanny&border_radius=6.6)](https://git.io/streak-stats)
-
-
----
-
-## 💌 Contact
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pxadanny)
-[![Email](https://img.shields.io/badge/Email-FBCFE8?style=for-the-badge&logo=gmail&logoColor=DB2777)](mailto:pxadanny@gmail.com)
-
-</div>
+<sub>Las estadísticas dependen de un servicio externo y pueden tardar en cargar o actualizarse.</sub>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pxadanny&color=f472b6&style=flat-square&label=profile+views" />
-</div>
-
-<div align="center">
-
-```
- Thanks for visiting! 🌷
-```
-
+  <p><em>Diseño con intención. Código con propósito.</em></p>
+  <a href="mailto:pxadanny@gmail.com">✉️ Hablemos de tu proyecto</a>
 </div>
