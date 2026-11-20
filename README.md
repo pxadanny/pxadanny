@@ -75,30 +75,30 @@ Mi espacio para compartir proyectos, habilidades e intereses, con una identidad 
 ## ✦ Actividad en GitHub
 
 <div align="center">
-  <p>
-    <em>Un vistazo a mi trabajo, constancia y evolución.</em>
-  </p>
-</div>
 
-<!-- Estadísticas y rachas -->
+  <br /><br />
 
-<div align="center">
-  <img
-    src="https://gitshine.com/card/pxadanny?theme=night"
-    alt="Actividad de Xadanny en GitHub"
-    width="100%"
-  />
-</div>
+  <em>Un vistazo a mi trabajo, constancia y evolución.</em>
 
+  <br /><br />
 
-<br />
+  <a href="https://gitshine.com/stats/pxadanny">
+    <img
+      src="https://gitshine.com/card/pxadanny?theme=dracula"
+      alt="Actividad y contribuciones de Xadanny"
+      width="100%"
+    />
+  </a>
 
-<p align="center">
+  <br />
+
   <sub>
-    Estadísticas generadas automáticamente a partir
-    de la actividad disponible en GitHub.
+    Contribuciones públicas y privadas anónimas.
+    Estadísticas actualizadas automáticamente.
   </sub>
-</p>
+
+</div>
+
 
 
 ---
