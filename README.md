@@ -94,6 +94,16 @@ Mi espacio para compartir proyectos, habilidades e intereses, con una identidad 
   />
 </div>
 
+
+<div align="center">
+  <img
+    src="https://gitshine.com/card/pxadanny?theme=night"
+    alt="Actividad de Xadanny en GitHub"
+    width="100%"
+  />
+</div>
+
+
 <br />
 
 <!-- Gráfica de contribuciones -->
