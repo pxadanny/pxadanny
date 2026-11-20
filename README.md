@@ -81,19 +81,6 @@ Mi espacio para compartir proyectos, habilidades e intereses, con una identidad 
 </div>
 
 <!-- Estadísticas y rachas -->
-<div align="center">
-  <img
-    height="175"
-    alt="Estadísticas de GitHub de Xadanny"
-    src="https://github-readme-stats.vercel.app/api?username=pxadanny&amp;locale=es&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=3B010B&amp;title_color=D6B585&amp;text_color=F2E5C6&amp;icon_color=B58C4F"
-  />
-  <img
-    height="175"
-    alt="Rachas de contribuciones de Xadanny"
-    src="https://streak-stats.demolab.com/?user=pxadanny&amp;locale=es&amp;hide_border=true&amp;background=3B010B&amp;ring=B58C4F&amp;fire=D6B585&amp;currStreakNum=F2E5C6&amp;sideNums=F2E5C6&amp;currStreakLabel=D6B585&amp;sideLabels=D6B585&amp;dates=F2E5C6&amp;stroke=75162D"
-  />
-</div>
-
 
 <div align="center">
   <img
@@ -105,15 +92,6 @@ Mi espacio para compartir proyectos, habilidades e intereses, con una identidad 
 
 
 <br />
-
-<!-- Gráfica de contribuciones -->
-<div align="center">
-  <img
-    width="100%"
-    alt="Gráfica de actividad de Xadanny"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pxadanny&amp;bg_color=3B010B&amp;color=F2E5C6&amp;title_color=D6B585&amp;line=B58C4F&amp;point=F2E5C6&amp;area=true&amp;area_color=75162D&amp;hide_border=true&amp;custom_title=Actividad%20de%20Xadanny"
-  />
-</div>
 
 <p align="center">
   <sub>
